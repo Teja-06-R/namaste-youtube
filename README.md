@@ -12,6 +12,7 @@ This project is part of my MERN fullstack learning journey, where I focus on bui
 - ✅ **Search Suggestions** – Implemented with **debouncing** for performance  
 - ✅ **Caching Search Results** – Avoids repeated API calls for same queries  
 - ✅ **Nested Comments** – Demo of recursive comment structure (like Reddit)  
+- ✅  📜 Live Chat for video - By using API Polling Concept 
 
 
 
@@ -29,7 +30,6 @@ This project is part of my MERN fullstack learning journey, where I focus on bui
 
 - 🎨 Improve overall UI/UX (better styling with Tailwind)  
 - 🌗 Add **Dark Mode** toggle  
-- 📜 Live Chat for video  
 - ❤️ Like / Watch Later functionality  
 - 🎬 Full YouTube Watch Page with recommended videos  
 
